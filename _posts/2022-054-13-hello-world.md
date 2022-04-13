@@ -2,7 +2,7 @@
 layout: post
 title:  "Rahul Vijayakumar's Blog"
 author: rahul
-categories: [ Jekyll, tutorial ]
+categories: BLOG
 image: assets/images/home.jpg
 tags: [sticky]
 ---
