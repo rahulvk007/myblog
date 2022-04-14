@@ -3,7 +3,7 @@ layout: post
 title:  "Rahul Vijayakumar's Blog"
 author: rahul
 categories: [BLOG]
-image: assets/images/home.jpg
+image: assets/images/blog-home.jpg
 tags: [sticky, featured]
 ---
 
