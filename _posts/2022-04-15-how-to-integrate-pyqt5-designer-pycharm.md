@@ -1,12 +1,10 @@
 ---
-
 layout: post  
 title:  "How to Integrate Qt Designer with PyCharm ?"  
 author: rahul  
 categories: [BLOG]  
 image: assets/images/designer.jpg  
-tags: [featured]  
-
+tags: [featured]
 ---
 
 **PyQt** is one of the most commonly used toolkit for making GUI (Graphical User Interface) based programs in python. You can use Qt Designer tool to easily make GUIs using drag and drop functionality. After you design your GUI using QT Designer , you will get a .ui file which you can convert to .py using pyuic5. It is sometimes a little bit of hassle to do all this. Luckily for us there exists a much easier way to do all this using PyCharm.
